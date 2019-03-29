@@ -1,6 +1,6 @@
 # Microshell
 
-A simple Microshell for Linux with basic functions
+A simple shell for Linux with basic functions
 
 List of commands:
 
